@@ -1,0 +1,8 @@
+snaps:
+  - name: core
+    channel: stable
+    file: core_1604.snap
+  - name: classic-gadget
+    unasserted: true
+    file: classic-gadget.snap
+    devmode: true
